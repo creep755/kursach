@@ -1,0 +1,10 @@
+*.dll
+*.o
+.vscode
+*.bat
+*.exe
+*.wav
+*.mp3
+*.transcription.txt
+mic_transcription.txt
+/model/*
